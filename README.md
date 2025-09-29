@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre GIT e GITHUB do curso de versionamento
 # 💻 Resumos das aulas
 | Aulas | Resumos |
 | ----- | --------|
-| Gravando Alterações no Repositório Liocal | [Resumos](https://www.dio.me) |
+| Gravando Alterações no Repositório Liocal | [Resumo](https://www.dio.me) |
 
 ```
 Git init 
